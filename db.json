@@ -1,0 +1,254 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "T-Shirt",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIUYs1yYj-2XJAFDtfB-VUIrm67tHxYL41MA&usqp=CAU",
+      "brand": "Puma",
+      "price": 1499,
+      "color": "red",
+      "gender": "male",
+      "category": "topwear"
+    },
+    {
+      "id": 2,
+      "name": "Shirt",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230602/iFtY/64795bf3d55b7d0c633c68ac/-473Wx593H-462329145-green-MODEL.jpg",
+      "brand": "addidas",
+      "price": 2599,
+      "color": "blue",
+      "gender": "male",
+      "category": "topwear"
+    },
+    {
+      "id": 3,
+      "name": "Pants",
+      "image": "https://t4.ftcdn.net/jpg/01/82/33/43/360_F_182334324_Snk2BsBEBSgCUWw1KcevXhe3iuyBbRyu.jpg",
+      "brand": "Nike",
+      "price": 899,
+      "color": "blue",
+      "gender": "male",
+      "category": "bottomwear"
+    },
+    {
+      "id": 4,
+      "name": "Saree",
+      "image": "https://png.pngitem.com/pimgs/s/140-1403136_beautiful-saree-model-png-transparent-image-transparent-saree.png",
+      "brand": "Meena Bazar",
+      "price": 1599,
+      "color": "blue",
+      "gender": "female",
+      "category": "topwear"
+    },
+    {
+      "id": 5,
+      "name": "Kurti",
+      "image": "https://stylesatlife.com/wp-content/uploads/2020/10/White-Silk-Kurti-with-Mirror-Work.jpg.webp",
+      "brand": "Rangriti",
+      "price": 1899,
+      "color": "white",
+      "gender": "female",
+      "category": "topwear"
+    },
+    {
+      "id": 6,
+      "name": "Jeans",
+      "image": "https://i.pinimg.com/236x/45/17/f7/4517f7d629f7724987b8529835a407af.jpg",
+      "brand": "Wrangler",
+      "price": 2399,
+      "color": "blue",
+      "gender": "female",
+      "category": "bottomwear"
+    },
+    {
+      "id": 7,
+      "name": "Shoes",
+      "image": "https://images.fashiola.in/product-list/300x450/farfetch/102239371/farfetch-polo-pony-touch-strap-sneakers.webp",
+      "brand": "Puma",
+      "price": 699,
+      "color": "white",
+      "gender": "kids",
+      "category": "footwear"
+    },
+    {
+      "id": 8,
+      "name": "Frock",
+      "image": "https://tiimg.tistatic.com/fp/1/007/819/stylish-designer-and-short-sleeves-party-wear-blue-frock-for-kids-186.jpg",
+      "brand": "Lilliput",
+      "price": 899,
+      "color": "blue",
+      "gender": "kids",
+      "category": "topwear"
+    },
+    {
+      "id": 9,
+      "name": "T-Shirt",
+      "image": "https://mirzacdns3.s3.ap-south-1.amazonaws.com/cache/catalog/RHP1156/1-445x618.jpg",
+      "brand": "Puma",
+      "price": 1499,
+      "color": "green",
+      "gender": "male",
+      "category": "topwear"
+    },
+    {
+      "id": 10,
+      "name": "Shirt",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqSA_M2F5giB4ydSAfcMC2XN-siBz2QGNaWQ&usqp=CAU",
+      "brand": "addidas",
+      "price": 2599,
+      "color": "black",
+      "gender": "male",
+      "category": "topwear"
+    },
+    {
+      "id": 11,
+      "name": "Pants",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBbqesXt_WfLepQ9NZ0SWgKJ2eX8Oiexitkw&usqp=CAU",
+      "brand": "Nike",
+      "price": 4899,
+      "color": "black",
+      "gender": "male",
+      "category": "bottomwear"
+    },
+    {
+      "id": 12,
+      "name": "Saree",
+      "image": "https://images.meesho.com/images/products/196277295/g8yni_512.webp",
+      "brand": "Meena Bazar",
+      "price": 1599,
+      "color": "green",
+      "gender": "female",
+      "category": "topwear"
+    },
+    {
+      "id": 13,
+      "name": "Kurti",
+      "image": "https://cdn.shopify.com/s/files/1/0341/4805/7228/files/banner_22fa2742-afe6-4d86-85cf-3b6dc8f7ef0f.jpg?v=1676369249",
+      "brand": "Rangriti",
+      "price": 1899,
+      "color": "blue",
+      "gender": "female",
+      "category": "topwear"
+    },
+    {
+      "id": 14,
+      "name": "Jeans",
+      "image": "https://rukminim2.flixcart.com/image/550/650/xif0q/jean/i/7/j/30-kttladiesjeans1003-kotty-original-imaggbnfsf45yhgg.jpeg?q=90&crop=false",
+      "brand": "Wrangler",
+      "price": 2399,
+      "color": "black",
+      "gender": "female",
+      "category": "bottomwear"
+    },
+    {
+      "id": 15,
+      "name": "Shoes",
+      "image": "https://rukminim1.flixcart.com/image/450/500/xif0q/kids-shoe/q/z/n/6-black-shoes-pu-pine-original-imageq5fkhsfzv8j.jpeg?q=90&crop=false",
+      "brand": "Puma",
+      "price": 699,
+      "color": "black",
+      "gender": "kids",
+      "category": "footwear"
+    },
+    {
+      "id": 16,
+      "name": "Frock",
+      "image": "https://dm1ll01jrnse4.cloudfront.net/optimize/opti_1270275514_img0.jpg",
+      "brand": "Lilliput",
+      "price": 899,
+      "color": "black",
+      "gender": "kids",
+      "category": "topwear"
+    },
+    {
+      "id": 17,
+      "name": "T-Shirt",
+      "image": "https://images.meesho.com/images/products/140598388/ailwc_256.webp",
+      "brand": "Puma",
+      "price": 1499,
+      "color": "white",
+      "gender": "male",
+      "category": "topwear"
+    },
+    {
+      "id": 18,
+      "name": "Shirt",
+      "image": "https://img3.junaroad.com/uiproducts/17766776/pri_175_p-1622706790.jpg",
+      "brand": "addidas",
+      "price": 2599,
+      "color": "white",
+      "gender": "male",
+      "category": "topwear"
+    },
+    {
+      "id": 19,
+      "name": "Pants",
+      "image": "https://img.mensxp.com/media/content/2023/Mar/Model-wearing-a-t-shirt-and-jeans_64253559577ee.jpeg",
+      "brand": "Nike",
+      "price": 4899,
+      "color": "white",
+      "gender": "male",
+      "category": "bottomwear"
+    },
+    {
+      "id": 20,
+      "name": "Saree",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrHjh3hpnQxeqDL3AsqrVPVLUyjY4praGSeg&usqp=CAU",
+      "brand": "Meena Bazar",
+      "price": 1599,
+      "color": "blue",
+      "gender": "female",
+      "category": "topwear"
+    },
+    {
+      "id": 21,
+      "name": "Kurti",
+      "image": "https://stylesatlife.com/wp-content/uploads/2018/01/Poly-cotton-kurti.jpg.webp",
+      "brand": "Rangriti",
+      "price": 1899,
+      "color": "red",
+      "gender": "female",
+      "category": "topwear"
+    },
+    {
+      "id": 22,
+      "name": "Jeans",
+      "image": "https://images.asos-media.com/products/yours-straight-leg-cargo-jean-in-olive/204709550-1-khaki/?$n_480w$&wid=476&fit=constrain",
+      "brand": "Wrangler",
+      "price": 2399,
+      "color": "white",
+      "gender": "female",
+      "category": "bottomwear"
+    },
+    {
+      "id": 23,
+      "name": "Shoes",
+      "image": "https://m.media-amazon.com/images/I/81fig+mPBUL._AC_UY1000_.jpg",
+      "brand": "Puma",
+      "price": 699,
+      "color": "blue",
+      "gender": "kids",
+      "category": "footwear"
+    },
+    {
+      "id": 24,
+      "name": "Frock",
+      "image": "https://static.fibre2fashion.com/MemberResources/LeadResources/1/2022/1/Seller/22201534/Images/22201534_2_opti-905871390-img0.jpg?tr=w-260,h-260,cm-pad_resize,bg-F3F3F3",
+      "brand": "Lilliput",
+      "price": 899,
+      "color": "white",
+      "gender": "kids",
+      "category": "topwear"
+    },
+    {
+      "name": "test",
+      "brand": "WWW",
+      "price": 11,
+      "gender": "male",
+      "category": "topwear",
+      "color": "green",
+      "image": "https://images.pexels.com/photos/220429/pexels-photo-220429.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "id": 25
+    }
+  ]
+}
